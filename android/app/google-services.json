@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "286591221887",
+    "firebase_url": "https://projetounivespintegrador.firebaseio.com",
+    "project_id": "projetounivespintegrador",
+    "storage_bucket": "projetounivespintegrador.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286591221887:android:cf0373d79fd69d20233f4a",
+        "android_client_info": {
+          "package_name": "br.com.univesp.projeto_ceu_univesp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286591221887-0b3ncqmu5uq5vjtri6hl3psoqge2je7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARxfbOlSo76-ZzsW3qKnRk-b12iANulms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286591221887-0b3ncqmu5uq5vjtri6hl3psoqge2je7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
